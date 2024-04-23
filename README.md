@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front End web development
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate ...
-- 📫 How to reach me ...
+- 📫 How to reach me abbeyeleazer@gmail.com
 
 <!---
 abbey-eleazer/abbey-eleazer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
