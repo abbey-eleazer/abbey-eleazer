@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abbey-eleazer
-- 👀 I’m interested in Front End web development
+- 👀 I’m interested in Software development
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate.. <a href="https://abbey-eleazer-portfolio.netlify.app/"> Checkout my Portfolio </a>
 - 📫 How to reach me abbeyeleazer@gmail.com
